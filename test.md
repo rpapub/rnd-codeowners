@@ -7,3 +7,7 @@ foo
 ## second
 
 bar
+
+## third
+
+baz
