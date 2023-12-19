@@ -1,3 +1,1 @@
-**/foo @rpapub/global-owner @rpapub/pbp-maintainer
-**/CODEOWNERS @rpapub/global-owner
-#test
+* @rpapub/global-owner @rpapub/pbp-maintainer
