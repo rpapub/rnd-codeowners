@@ -1,2 +1,2 @@
-* @rpapub/global-owner @rpapub/pbp-maintainer
-**/CODEOWNERS @rpapub/global-owner
+* @rpapub/global-owners @rpapub/pbp-maintainers
+**/CODEOWNERS @rpapub/global-owners
